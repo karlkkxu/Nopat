@@ -1,0 +1,13 @@
+C:\Users\Kim\source\repos\Nopat\bin\Debug\netcoreapp3.1\Nopat.exe
+C:\Users\Kim\source\repos\Nopat\bin\Debug\netcoreapp3.1\Nopat.deps.json
+C:\Users\Kim\source\repos\Nopat\bin\Debug\netcoreapp3.1\Nopat.runtimeconfig.json
+C:\Users\Kim\source\repos\Nopat\bin\Debug\netcoreapp3.1\Nopat.runtimeconfig.dev.json
+C:\Users\Kim\source\repos\Nopat\bin\Debug\netcoreapp3.1\Nopat.dll
+C:\Users\Kim\source\repos\Nopat\bin\Debug\netcoreapp3.1\Nopat.pdb
+C:\Users\Kim\source\repos\Nopat\obj\Debug\netcoreapp3.1\Nopat.csprojAssemblyReference.cache
+C:\Users\Kim\source\repos\Nopat\obj\Debug\netcoreapp3.1\Nopat.AssemblyInfoInputs.cache
+C:\Users\Kim\source\repos\Nopat\obj\Debug\netcoreapp3.1\Nopat.AssemblyInfo.cs
+C:\Users\Kim\source\repos\Nopat\obj\Debug\netcoreapp3.1\Nopat.csproj.CoreCompileInputs.cache
+C:\Users\Kim\source\repos\Nopat\obj\Debug\netcoreapp3.1\Nopat.dll
+C:\Users\Kim\source\repos\Nopat\obj\Debug\netcoreapp3.1\Nopat.pdb
+C:\Users\Kim\source\repos\Nopat\obj\Debug\netcoreapp3.1\Nopat.genruntimeconfig.cache

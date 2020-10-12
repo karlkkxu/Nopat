@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Nopat": {
+      "commandName": "Project",
+      "commandLineArgs": "18000 10 10 0 0"
+    }
+  }
+}
